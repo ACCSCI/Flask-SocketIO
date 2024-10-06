@@ -33,3 +33,12 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+/.idea
+/.venv
+/example/.idea
+/example/.venv
+/.idea
+/.idea
+/.idea
+/.idea
+/.idea
